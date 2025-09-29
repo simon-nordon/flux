@@ -1,0 +1,20 @@
+{
+    "name": "com.simon-nordon.flux",
+    "version": "1.0.0",
+    "displayName": "Flux",
+    "description": "A brief description of what the Flux package does.",
+    "unity": "6000.0",
+    "documentationUrl": "https://github.com/simon-nordon/flux#readme",
+    "changelogUrl": "https://github.com/simon-nordon/flux/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/simon-nordon/flux/blob/main/LICENSE.md",
+    "keywords": [
+        "unity",
+        "tools",
+        "flux"
+    ],
+    "author": {
+        "name": "Simon Nordon",
+        "email": "simon.nordon@gmail.com",
+        "url": "https://www.simonnordon.com"
+    }
+}
