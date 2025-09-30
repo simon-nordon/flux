@@ -7,6 +7,6 @@
     /// </summary>
     public class StoreInitializedAction : IAction
     {
-        internal StoreInitializedAction() { }
+        public StoreInitializedAction() { }
     }
 }

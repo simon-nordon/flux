@@ -1,3 +1,4 @@
 {
-	"name": "Flux.Editor"
+	"name": "Flux.Editor",
+	"references":[ "GUID:83b964c1397bc9148969a4e710919252" ]
 }

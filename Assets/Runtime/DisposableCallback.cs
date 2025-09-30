@@ -5,7 +5,7 @@ namespace Flux
     /// <summary>
     /// A helper class that executes a callback action when disposed.
     /// </summary>
-    internal class DisposableCallback : IDisposable
+    public class DisposableCallback : IDisposable
     {
         private readonly Action _action;
         public string Id { get; }

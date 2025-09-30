@@ -4,6 +4,9 @@
     "displayName": "Flux",
     "description": "A brief description of what the Flux package does.",
     "unity": "6000.0",
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.2.1"
+    },
     "documentationUrl": "https://github.com/simon-nordon/flux#readme",
     "changelogUrl": "https://github.com/simon-nordon/flux/blob/main/CHANGELOG.md",
     "licensesUrl": "https://github.com/simon-nordon/flux/blob/main/LICENSE.md",
@@ -17,4 +20,4 @@
         "email": "simon.nordon@gmail.com",
         "url": "https://www.simonnordon.com"
     }
-}
+}  
